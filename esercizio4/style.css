@@ -1,0 +1,141 @@
+body{
+    background-color: rgb(223, 198, 198);
+    
+    
+}
+#primologo{
+    background-color: rgb(40, 40, 116);
+    
+}
+#paragrafo{
+    background-color: rgb(69, 69, 152);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    
+}
+
+#pagina{
+    background-color:whitesmoke;
+
+}
+
+#sezione{
+    background-image: url("bg-image.png");
+    height: 100px;
+    color:white;
+    text-align: center; 
+}
+
+.boxheadline{
+    background-color: rgb(246, 241, 241);
+    display:flex;
+    margin-bottom: -10px;
+ 
+    
+}
+.box{
+    background-color:rgb(264, 241, 241);
+    display:flex;
+    margin-top: 2px;
+    height: 400px;
+    align-items: center;
+    
+    
+}
+.card1{
+    background-image: url("img_1.jpg");
+    background-size: cover;
+    background-position: center;
+    width:400px;
+    height: 350px;
+    border-radius: 20px;
+    margin-inline: 20px;
+}
+
+.card2{
+    background-image: url("img_2.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 350px;
+    border-radius: 20px;
+    margin-inline: 20px;
+    
+}
+
+.card3{
+    background-image: url("img_3.jpg");
+    background-size: cover;
+    background-position: center;
+     width: 400px;
+    height: 350px;
+    border-radius: 20px;
+    margin-inline: 20px;
+ 
+}
+
+.card4{
+
+    background-image: url("img_4.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 350px;
+    border-radius: 20px;
+    margin-inline: 20px;   
+}
+
+.box2{
+    background:white;
+    display:flex;
+    margin-top: 2px;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+
+.basket1{
+    background-image: url("img_15.jpg");
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.basket2{
+    background-image: url("img_16.jpg");
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin-inline: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.basket3{
+    background-image: url("img_17.jpg");
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    position:initial;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.basket4{
+    background-image: url("img_18.jpg");
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    position:initial;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+
+
